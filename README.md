@@ -157,7 +157,7 @@ Pressing `shift+a` on any commit will amend that commit with the currently stage
 
 ### Filter
 
-You can filter a view with `/`. Here we filter down our branches view and then hit `enter` to view its commits.
+You can filter a view with `/`. Here we filter down our branches view and then hit `enter` to view its commits. 
 
 ![filter](../assets/demo/filter-compressed.gif)
 
